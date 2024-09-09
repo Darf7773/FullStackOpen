@@ -1,1 +1,1 @@
-# FullStackOpen_GutJakub
+# FullStackOpen
